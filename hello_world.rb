@@ -1,2 +1,3 @@
-string1 = Hello World
-puts string1
+string1 = "Hello"
+string2 = "world!"
+puts "#{string1}"
